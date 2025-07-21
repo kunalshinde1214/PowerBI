@@ -22,6 +22,7 @@ This repository contains the following Power BI projects:
    - Identifies key factors influencing hotel revenue and occupancy rates.
 
 4. **SalesStore**
+  (SalesStore/thumbnail.png)
    - Analyzes retail sales data to forecast trends and understand customer behavior.
    - Utilizes time series analysis for accurate sales forecasting.
 
