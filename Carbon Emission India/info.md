@@ -29,7 +29,7 @@ This Power BI report provides a comprehensive analysis of **carbon dioxide emiss
 ### 🧩 **Data Source:**
 
 * The dataset (`india_co2_emissions_data.csv`) contains historical CO₂ emission figures categorized by year, state/region, and sectors.
-* Data is assumed to be derived from publicly available climate or governmental datasets (e.g., MoEFCC, World Bank, EDGAR).
+* Data is derived from publicly available climate or governmental datasets (e.g., MoEFCC, World Bank, EDGAR).
 
 ---
 
