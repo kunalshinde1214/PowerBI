@@ -9,19 +9,23 @@ Welcome to the PowerBI Projects repository! This collection showcases a series o
 
 This repository contains the following Power BI projects:
 
-1. **Global Cybersecurity**
+1. **Carbon Emissions in India**
+   - This Power BI report provides a comprehensive analysis of carbon dioxide emissions in India, focusing on key metrics over time.
+   - The dashboard is designed to help understand trends, identify key emission sources, and support decision-making for climate action.
+     
+2. **Global Cybersecurity**
    - Analyzes global cybersecurity threats, incidents, and trends.
    - Provides insights into threat types, affected regions, and mitigation strategies.
 
-2. **HR Analysis**
+3. **HR Analysis**
    - Examines human resources data to uncover patterns in employee demographics, performance, and retention.
    - Helps in strategic HR planning and decision-making.
 
-3. **Hotels Revenue Insights**
+4. **Hotels Revenue Insights**
    - Focuses on revenue metrics within the hospitality industry.
    - Identifies key factors influencing hotel revenue and occupancy rates.
 
-4. **SalesStore**
+5. **SalesStore**
   (SalesStore/thumbnail.png)
    - Analyzes retail sales data to forecast trends and understand customer behavior.
    - Utilizes time series analysis for accurate sales forecasting.
@@ -43,6 +47,8 @@ The repository is organized as follows:
 
 ```
 PowerBI/
+├── Carbon Emission India/
+│   └── Carbon Emissions.pbix
 ├── Global_Cybersecurity/
 │   └── Global_Cybersecurity.pbix
 ├── HR Analysis/
